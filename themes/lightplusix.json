@@ -1,6 +1,6 @@
 {
-	"name": "Darkplusix",
-	"include": "./dark_plus.json",
+	"name": "Lightplusix",
+	"include": "./light_plus.json",
 	"settings": [
 		{
 			"settings": {
