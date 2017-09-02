@@ -1,15 +1,6 @@
-# DARKPLUSIX
-[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-ex.JPG)](https://github.com/thonymg/vscode-darkplusix)
-Elixir coloring 
----------------------------------------------------------------------
-[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-jsx.JPG)](https://github.com/thonymg/vscode-darkplusix)
-JSX coloring
----------------------------------------------------------------------
-[![Darkplusix](https://raw.githubusercontent.com/thonymg/vscode-darkplusix/master/Darkplusix-js.JPG)](https://github.com/thonymg/vscode-darkplusix)
-JavaScript/ES6 coloring 
----------------------------------------------------------------------
+# LIGHTPLUSIX
 
-Extension of dark plus default theme for better elixir & javascript(ES6, React) coloring.
+Light version of extension of dark plus default theme for better elixir & javascript(ES6, React) coloring.
 
 Use [vscode-elixir](https://github.com/mat-mcloughlin/vscode-elixir) by Mat MacLoughlin.
 Use [FiraCode](https://github.com/tonsky/FiraCode) font (optional)
@@ -17,5 +8,5 @@ Use [FiraCode](https://github.com/tonsky/FiraCode) font (optional)
 ---------------------------------------------------------------------
 
 #### Paix et guérisons sur les tiens, Veloma !
-See the code on my [github repo](https://github.com/thonymg/vscode-darkplusix)
-[ThonyMg](https://github.com/thonymg)
+See the code on my [github repo](https://github.com/rikkus/vscode-lightplusix)
+Forked from DarkPlusix by: [ThonyMg](https://github.com/thonymg)
