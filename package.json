@@ -1,13 +1,13 @@
 {
-    "name": "Darkplusix",
-    "displayName": "Darkplusix",
-    "description": "Extension of dark plus default theme for better elixir & javascript(ES6, React) coloring",
+    "name": "Lightplusix",
+    "displayName": "Lightplusix",
+    "description": "Light version of extension of dark plus default theme for better elixir & javascript(ES6, React) coloring",
     "version": "1.1.1",
-    "publisher": "thonymg",
+    "publisher": "rikkus",
     "license": "MIT",
     "galleryBanner": {
-        "color": "#282C34",
-        "theme": "dark"
+        "color": "#ffffff",
+        "theme": "light"
     },
     "engines": {
         "vscode": "*"
@@ -18,43 +18,28 @@
     "keywords": [
         "default theme",
         "theme",
-        "dark",
-        "dark plus",
+        "light",
+        "light plus",
         "visual studio"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Darkplusix",
-                "uiTheme": "vs-dark",
-                "path": "./themes/darkplusix.json"
+                "label": "Lightplusix",
+                "uiTheme": "vs-light",
+                "path": "./themes/lightplusix.json"
             }
         ]
     },
     "bugs": {
-        "url": "https://github.com/thonymg/vscode-darkplusix/issues",
-        "email": "copycates@gmail.com"
+        "url": "https://github.com/rikkus/vscode-lightplusix/issues",
+        "email": "rik@hemsley.cc"
     },
-    "homepage": "https://github.com/thonymg/vscode-darkplusix",
+    "homepage": "https://github.com/rikkus/vscode-lightplusix",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thonymg/vscode-darkplusix"
+        "url": "https://github.com/rikkus/vscode-lightplusix"
     },
     "badges": [
-        {
-            "url": "http://vsmarketplacebadge.apphb.com/version/thonymg.Darkplusix.svg",
-            "href": "https://marketplace.visualstudio.com/items/thonymg.Darkplusix",
-            "description": "Extension version"
-        },
-        {
-            "url": "http://vsmarketplacebadge.apphb.com/installs/thonymg.Darkplusix.svg",
-            "href": "https://marketplace.visualstudio.com/items/thonymg.Darkplusix",
-            "description": "Extension installs"
-        },
-        {
-            "url": "http://vsmarketplacebadge.apphb.com/rating/thonymg.Darkplusix.svg",
-            "href": "https://marketplace.visualstudio.com/items/thonymg.Darkplusix",
-            "description": "Extension Rating"
-        }
     ]
 }
